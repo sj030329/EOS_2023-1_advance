@@ -67,7 +67,7 @@ class _LoginSignUpScreenState extends State<LoginSignUpScreen> {
                   BoxShadow(
                     color: Colors.black.withOpacity(0.3),
                     blurRadius: 15,
-                    spreadRadius: 15
+                    spreadRadius: 5
                   )
                 ]
                 ),
